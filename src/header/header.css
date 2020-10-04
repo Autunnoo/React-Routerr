@@ -1,0 +1,24 @@
+.header {
+    height: 90px;
+    background-color: #0e5142;
+    width: 100vw;
+    padding: 20px;
+    display: flex;
+    padding-top: 10px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.headers {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-right: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.headers.active {
+    border-bottom: 3px solid #000;
+}

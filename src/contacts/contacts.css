@@ -1,0 +1,64 @@
+
+/* body {
+    background: black;
+} */
+
+
+
+.osnova {
+    background: black;
+    border-Radius: 7%;
+    color: white;
+    margin: 15px 0px 0px 700px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    border-style:solid;    
+    border-color:white;
+    border-width:1px;
+    
+    
+
+    
+}
+.h1 {
+    color: wheat;
+}
+.contactName {
+    padding: 10px;
+    margin: auto;
+    font-weight: normal;
+}
+
+.cont {
+    background-color: #ddd;
+    width: 660px;
+    padding: 40px;
+    box-shadow: 0px 0px 40px #00000088;
+    overflow: hidden;
+}
+.nazvanie {
+    color: chartreuse;
+}
+
+.fri{
+    background-color: #cdcdcd;
+  padding: 12px 15px;
+  color: #444;
+  user-select: none;
+}
+.cnt{
+    padding: 6px 15px;
+    background-color: #ffffff;
+    color: black;
+    border-bottom: 1px solid #ccc;
+}
+.head {
+  
+  padding: 12px 15px;
+  font-weight: bold;
+}
